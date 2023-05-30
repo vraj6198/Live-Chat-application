@@ -1,3 +1,3 @@
-# Live-Chat-application-
+# Live-Chat-application
 
 ![alt text](SS.png)
